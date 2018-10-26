@@ -24,7 +24,9 @@ public class Quickstart {
 
 
     public static void main(String[] args) {
-
+    	
+    	//hello
+    	
         // The easiest way to create a Shiro SecurityManager with configured
         // realms, users, roles and permissions is to use the simple INI config.
         // We'll do that by using a factory that can ingest a .ini file and
